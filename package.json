@@ -1,6 +1,6 @@
 {
   "name": "notion-next",
-  "version": "4.9.5.5",
+  "version": "4.9.5.7",
   "packageManager": "yarn@1.22.22",
   "homepage": "https://github.com/tangly1024/NotionNext.git",
   "license": "MIT",
@@ -138,7 +138,7 @@
     "lodash": "^4.18.1",
     "picomatch": "^2.3.2",
     "qs": "^6.15.2",
-    "tmp": "^0.2.5",
+    "tmp": "^0.2.6",
     "uuid": "^11.1.1"
   },
   "bugs": {

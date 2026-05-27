@@ -5,22 +5,16 @@ hero:
   name: NotionNext
   text: 使用说明
   tagline: 部署、配置、主题与 Notion 写作 — 与仓库 main 分支同步
+  image:
+    src: /brand/notionnext-logo.svg
+    alt: NotionNext Logo
   actions:
     - theme: brand
       text: 快速开始
       link: /user-guide/intro
     - theme: alt
-      text: 在 GitHub 上维护文档
+      text: 维护文档
       link: https://github.com/notionnext-org/NotionNext/tree/main/docs
-    - theme: alt
-      text: 参与社区
-      link: /user-guide/community-participate
-    - theme: alt
-      text: 维护说明
-      link: /user-guide/maintain-docs
-    - theme: alt
-      text: 旧版 Notion 教程
-      link: https://docs.tangly1024.com
 
 features:
   - title: 仓库内维护
@@ -37,10 +31,14 @@ features:
     details: 项目由 notionnext-org 社区维护；提问、改文档、提 PR、成为维护者。
     link: /user-guide/community-participate
     linkText: 查看指南
+  - title: 致谢贡献者
+    details: 感谢所有参与代码、主题、文档、Issue、Review 与发布维护的贡献者。
+    link: /user-guide/acknowledgements
+    linkText: 查看致谢
 ---
 
 ::: tip 参与社区维护
-NotionNext 已移交组织仓库，欢迎站长与开发者共建。请参阅 **[参与社区](/user-guide/community-participate)** · [GitHub Discussions](https://github.com/notionnext-org/NotionNext/discussions) · [贡献指南](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.zh-CN.md)。
+NotionNext 已移交组织仓库，欢迎站长与开发者共建。请参阅 **[参与社区](/user-guide/community-participate)** · [参与维护](/user-guide/maintain-docs) · [致谢](/user-guide/acknowledgements) · [GitHub Discussions](https://github.com/notionnext-org/NotionNext/discussions) · [贡献指南](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.zh-CN.md)。
 :::
 
 ::: info 还在找旧版教程？

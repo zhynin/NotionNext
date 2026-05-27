@@ -6,6 +6,8 @@
 
 源码与 GitHub 上的 Markdown **一一对应**；改仓库 → 合并 `main` → 自动发布。
 
+每一次文档修正都会帮助后来的站长少踩一次坑。参与维护文档的开发者会出现在 [文档提交记录](https://github.com/notionnext-org/NotionNext/commits/main/docs) 与 [致谢页](./acknowledgements.md) 中。
+
 ## 改当前这一页
 
 任意教程页底部有 **「在 GitHub 上维护此页」**，直达该文件的编辑界面。

@@ -1,6 +1,6 @@
 ﻿# 内置主题全览（25 个）
 
-> 与 `themes/` 目录及 `conf/themeSwitch.manifest.js` 同步 · 当前版本 **4.9.5.2**  
+> 与 `themes/` 目录及 `conf/themeSwitch.manifest.js` 同步 · 当前版本 **4.9.5.7**  
 > **每个主题均有独立说明** → [主题目录](./)
 
 预览：`https://preview.tangly1024.com/?theme=<id>`（`id` 为下表「ID」，小写）

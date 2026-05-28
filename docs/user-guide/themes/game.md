@@ -4,6 +4,11 @@
 > 最后编辑：2024-11-5
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Game 主题预览](/images/themes-preview/game.webp)
+
 > **💡** 年龄大了，只能玩得动一点小游戏。
 
 可以搭建网页小游戏网站的主题。在线预览：[https://games.tangly1024.com/](https://games.tangly1024.com/)。

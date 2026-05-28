@@ -8,7 +8,7 @@
 
 > **💡** 您可以通过以下方式留言，以获取帮助，精力有限，但我会尽量回复。
 
-如果您的问题比较紧急，可以考虑通过《[社群](https://docs.tangly1024.com/article/chat-community)》获取帮助
+如果您的问题比较紧急，可以考虑通过《[社群](/user-guide/help/community)》获取帮助
 
 
 ## 技术帮助
@@ -48,7 +48,7 @@
 
 ## 交流社群
 
-[3.社群讨论 | NotionNext帮助手册](https://docs.tangly1024.com/article/chat-community)
+[3.社群讨论 | NotionNext帮助手册](/user-guide/help/community)
 
 NotionNext操作手册，部署教程，如何部署
 

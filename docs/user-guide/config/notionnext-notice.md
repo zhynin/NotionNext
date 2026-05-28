@@ -24,7 +24,7 @@
 
 请升级至最新版本的NotionNext，参考升级操作指南：
 
-[NotionNext升级操作指南 | TANGLY’s BLOG](https://tangly1024.com/article/how-to-update-notionnext)
+[NotionNext升级操作指南 | TANGLY’s BLOG](/user-guide/update)
 
 当NotionNext发布新版后，如何更新你的项目？
 

@@ -4,6 +4,11 @@
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Commerce 主题预览](/images/themes-preview/commerce.webp)
+
 可以搭建一个简易企业产品官网的 主题，在线预览：（以下是本主题的赞助商）
 
 [shuida123.com](http://shuida123.com/)

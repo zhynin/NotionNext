@@ -10,7 +10,7 @@
 >
 Facebook 官方宣布：从 2024 年 5 月 9 日起，聊天插件将不再可用。
 >
-> 可以选择使用[SaleSmartly 插件](https://docs.tangly1024.com/article/notion-next-salesmatly-pulgin)作为页面聊天客服。
+> 可以选择使用[SaleSmartly 插件](/user-guide/plugins/notion-next-salesmatly-pulgin)作为页面聊天客服。
 
 
 ## 文档

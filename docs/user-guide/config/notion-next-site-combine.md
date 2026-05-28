@@ -15,11 +15,11 @@
 
 我创建了很多网站，每个网站有各自的主题和功能：
 
-1. [www.tangly1024.com](http://www.tangly1024.com) 主页介绍
+1. [www.tangly1024.com](/user-guide/intro) 主页介绍
 
-1. [blog.tangly1024.com](http://blog.tangly1024.com) 博客
+1. [blog.tangly1024.com](/user-guide/intro) 博客
 
-1. [docs.tangly1024.com](http://docs.tangly1024.com) 文档
+1. [docs.tangly1024.com](/user-guide/intro) 文档
 
 1. xxx 等等。
 
@@ -28,7 +28,7 @@
 
 ## 单站点多板块
 
-NotionNext结合[《多数据库》](https://docs.tangly1024.com/article/notion-next-mulity-languages)可以有很多灵活的玩法
+NotionNext结合[《多数据库》](/user-guide/config/notion-next-mulity-languages)可以有很多灵活的玩法
 
 “一个站点支持绑定多个notion数据库”，部署的第2个以上的数据库，可以指定子路径访问；并且每个数据库可以配置自己的主题(用`NOTION_CONFIG`)。
 

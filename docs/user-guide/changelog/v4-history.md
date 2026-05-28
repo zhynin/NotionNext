@@ -14,15 +14,15 @@
 
 1. 升级Nextjs底层框架版本
 
-1. 新主题[Magzine](https://docs.tangly1024.com/article/notion-next-magzine)（专业杂志）
+1. 新主题[Magzine](/user-guide/themes/magzine)（专业杂志）
 
-1. 新主题[Proxio ](https://docs.tangly1024.com/article/notion-next-proxio)（一人公司）
+1. 新主题[Proxio ](/user-guide/themes/proxio)（一人公司）
 
-1. 新主题[Typography](https://docs.tangly1024.com/article/notion-next-typography)(活字印刷)
+1. 新主题[Typography](/user-guide/themes/typography)(活字印刷)
 
 1. 公众号OpenWrite解锁
 
-1. 加入[Coze-AI助手](https://docs.tangly1024.com/article/notion-next-coze)
+1. 加入[Coze-AI助手](/user-guide/plugins/notion-next-coze)
 
 1. Gitbook主题改版
 
@@ -225,7 +225,7 @@ blog.config.js 配置文件太多，而且大部分用不到，因此拆分到 /
 
 - feat(localization): introduce localization to 404 texts by **[@YesYouKenSpace](https://github.com/YesYouKenSpace)** in [#3233](https://github.com/tangly1024/NotionNext/pull/3233)
 
-- [Iconfont图标支持](https://docs.tangly1024.com/article/notion-next-iconfont) by **[@tangly1024](https://github.com/tangly1024)** in [#3324](https://github.com/tangly1024/NotionNext/pull/3324)
+- [Iconfont图标支持](/user-guide/config/notion-next-iconfont) by **[@tangly1024](https://github.com/tangly1024)** in [#3324](https://github.com/tangly1024/NotionNext/pull/3324)
 
 - fix: enable all Notion file types to work properly by **[@LooseLi](https://github.com/LooseLi)** in [#3317](https://github.com/tangly1024/NotionNext/pull/3317)
 
@@ -309,7 +309,7 @@ blog.config.js 配置文件太多，而且大部分用不到，因此拆分到 /
 
 - 版本号4.8.1 by [@tangly1024](https://github.com/tangly1024) in [#3116](https://github.com/tangly1024/NotionNext/pull/3116)
 
-- 新增文章定时上架、下架功能 ,详见 [https://docs.tangly1024.com/article/notionnext-scheduled-article-release](https://docs.tangly1024.com/article/notionnext-scheduled-article-release)
+- 新增文章定时上架、下架功能 ,详见 [/user-guide/notion/notionnext-scheduled-article-release](/user-guide/notion/notionnext-scheduled-article-release)
 
 - 优化spoiler-text.css，平滑过渡符合现代审美 by [@Hyphen-H](https://github.com/Hyphen-H) in [#3108](https://github.com/tangly1024/NotionNext/pull/3108)
 
@@ -833,7 +833,7 @@ Nodejs最低版本从16.13.0升级为18.17.0；旧版Nodejs可能存在兼容性
 ## V4.5.0 (2024-05-08)
 
 ### What's Changed
-  - 支持文章用分类名+slug访问博文`%category%/%slug%`，使url语义化，更利于SEO Release/4.5.0 by [@tangly1024](https://github.com/tangly1024) in [#2391](https://github.com/tangly1024/NotionNext/pull/2391) ，使用说明：《[URL风格自定义](https://docs.tangly1024.com/article/notion-next-url-customize)》
+  - 支持文章用分类名+slug访问博文`%category%/%slug%`，使url语义化，更利于SEO Release/4.5.0 by [@tangly1024](https://github.com/tangly1024) in [#2391](https://github.com/tangly1024/NotionNext/pull/2391) ，使用说明：《[URL风格自定义](/user-guide/config/url-customize)》
   - Commerce 主题调整优化Feat/theme commerce fix by [@tangly1024](https://github.com/tangly1024) in [#2387](https://github.com/tangly1024/NotionNext/pull/2387)
     1. summary无法换行，支持使用&lt;br&gt;换行符实现
     1. summary 图片铺满布局
@@ -861,17 +861,17 @@ Nodejs最低版本从16.13.0升级为18.17.0；旧版Nodejs可能存在兼容性
 
 ## V4.4总览
 
-- 新主题：movie,《[Movie主题介绍](https://docs.tangly1024.com/article/notionnext-movie)》
+- 新主题：movie,《[Movie主题介绍](/user-guide/themes/movie)》
 
-- 新主题：game ， 《[小游戏网站](https://docs.tangly1024.com/article/notionnext-game)》
+- 新主题：game ， 《[小游戏网站](/user-guide/themes/game)》
 
-- 新主题：commerce； 一个适合企业产品展示的[简易官网](https://docs.tangly1024.com/article/notionnext-commerce)
+- 新主题：commerce； 一个适合企业产品展示的[简易官网](/user-guide/themes/commerce)
 
-- 广告插件增强，支持文章段落随意插入广告 ： [《Google广告营收插件》](https://docs.tangly1024.com/article/notion-next-google-adsense) ， [相关PR](https://github.com/tangly1024/NotionNext/pull/2192)。
+- 广告插件增强，支持文章段落随意插入广告 ： [《Google广告营收插件》](/user-guide/plugins/notion-next-google-adsense) ， [相关PR](https://github.com/tangly1024/NotionNext/pull/2192)。
 
-- 全站多语言： 更灵活的多语言，站点菜单、公告、文章都可以按照不同地区访客深度定制化，《[全站多语言](https://docs.tangly1024.com/article/notion-next-mulity-languages)》。
+- 全站多语言： 更灵活的多语言，站点菜单、公告、文章都可以按照不同地区访客深度定制化，《[全站多语言](/user-guide/config/notion-next-mulity-languages)》。
 
-- 批量配置：支持在NOTION_CONFIG中，批量导入配置，使用教程：《[INLINE_CONFIG导入配置](https://docs.tangly1024.com/article/notion-next-inline-config)》
+- 批量配置：支持在NOTION_CONFIG中，批量导入配置，使用教程：《[INLINE_CONFIG导入配置](/user-guide/config/notion-next-inline-config)》
 
 - 细节优化、Bug修复。
 
@@ -904,7 +904,7 @@ Nodejs最低版本从16.13.0升级为18.17.0；旧版Nodejs可能存在兼容性
 ## **v4.4.4** (2024-04-23)
 
 ### What's Changed
-  - 新特性：NOTION_CONFIG支持配置FONT_URL by [@tangly1024](https://github.com/tangly1024) in [#2318](https://github.com/tangly1024/NotionNext/pull/2318)，参考《[字体字号使用说明](https://docs.tangly1024.com/article/notion-next-web-font)》
+  - 新特性：NOTION_CONFIG支持配置FONT_URL by [@tangly1024](https://github.com/tangly1024) in [#2318](https://github.com/tangly1024/NotionNext/pull/2318)，参考《[字体字号使用说明](/user-guide/config/notion-next-web-font)》
   - 新特性，支持配置关闭文章标题中的icon：feat: add title icon configuration by [@Femoon](https://github.com/Femoon) in [#2310](https://github.com/tangly1024/NotionNext/pull/2310)
   - 修复bug：视频尺寸video-size by [@tangly1024](https://github.com/tangly1024) in [#2294](https://github.com/tangly1024/NotionNext/pull/2294)
   - 修复：fix: medium theme catalog miss by [@Femoon](https://github.com/Femoon) in [#2314](https://github.com/tangly1024/NotionNext/pull/2314)
@@ -916,9 +916,9 @@ Nodejs最低版本从16.13.0升级为18.17.0；旧版Nodejs可能存在兼容性
 
 ### What's Changed
   - 全站多语言支持，包括菜单和文章内容。具体使用参阅文档：
-[https://docs.tangly1024.com/article/notion-next-mulity-language](https://docs.tangly1024.com/article/notion-next-mulity-language)
+[/user-guide/config/notion-next-mulity-languages](/user-guide/config/notion-next-mulity-languages)
   - NotionConfig增强，支持`INLINE_CONFIG` ， 用json的格式批量导入配置。具体使用参阅文档：
-[https://docs.tangly1024.com/article/notion-next-inline-config](https://docs.tangly1024.com/article/notion-next-inline-config)
+[/user-guide/config/notion-next-inline-config](/user-guide/config/notion-next-inline-config)
   - 精减部分非必要的package.json依赖，`typed.js`、`npgrogress`、`mongodb`、`animejs`、`aos`等等。
   - 渐进式应用 PWA, 并支持game主题 by @tangly1024 in [https://github.com/tangly1024/NotionNext/pull/2249](https://github.com/tangly1024/NotionNext/pull/2249)
 by @tangly1024 in [https://github.com/tangly1024/NotionNext/pull/2251](https://github.com/tangly1024/NotionNext/pull/2251)
@@ -1059,7 +1059,7 @@ by @tangly1024 in [https://github.com/tangly1024/NotionNext/pull/2251](https://g
 
 - 支持在notiobn中自定义css和js
 
-- 新增[Charity](https://docs.tangly1024.com/article/notion-next-clarity)统计插件支持，更好用的免费站点统计
+- 新增[Charity](/user-guide/analytics/clarity)统计插件支持，更好用的免费站点统计
 
 <details>
 <summary>更新明细</summary>
@@ -1158,7 +1158,7 @@ export const siteConfig = (key, defaultVal = null, extendConfig) =&gt; {
 绝大部分配置支持在Notion中设置，减少对blog.config.js和vercel环境变量的配置
 
 ![Untitled](/legacy/4b36ee3a8532cf6f.png)
-> **💡** 如何使用config文档，请参考 《[站点配置-配置入门](https://docs.tangly1024.com/article/how-to-config-notion-next)》
+> **💡** 如何使用config文档，请参考 《[站点配置-配置入门](/user-guide/config-site)》
 
 <details>
 <summary>更新详情</summary>
@@ -1195,7 +1195,7 @@ export const siteConfig = (key, defaultVal = null, extendConfig) =&gt; {
 ![Untitled](/legacy/d02a080e434a44f4.png)
   - Fukasawa支持配置MailChimp表单
 /themes/fukasaw/config.js → 开启FUKASAWA_MAILCHIMP_FORM
-⚠️ [需要配置MailChimp](https://docs.tangly1024.com/article/notion-next-mailchimp)
+⚠️ [需要配置MailChimp](/user-guide/plugins/mailchimp)
 ![Untitled](/legacy/8bcbd76b55b08092.png)
   - Fix/little bug for Next Fukasawa by [@tangly1024](https://github.com/tangly1024) in [#1730](https://github.com/tangly1024/NotionNext/pull/1730)
 修复搜索的问题
@@ -1250,7 +1250,7 @@ Fukasawa、Next主题多语言的问题
 新增[Heroicon](https://heroicons.com/) 支持，轻量美观的图标
 简化主题目录 /themes ，简化二次开发。
 
-参考此文：[《创建您的主题》零基础小白，也能开发主题。](https://docs.tangly1024.com/article/your-own-theme)
+参考此文：[《创建您的主题》零基础小白，也能开发主题。](/user-guide/development/own-theme)
 
 </details>
 
@@ -1392,7 +1392,7 @@ gitbook主题将默认按照文章分类进行归组排序。从而解决在gitb
 
 ### What's Changed
   - HEO主题右上角置顶文章逻辑调整，样式微调 Feat/heo top posts by [@tangly1024](https://github.com/tangly1024) in [#1371](https://github.com/tangly1024/NotionNext/pull/1371)
-    - 详情见《[HEO主题配置说明文档](https://docs.tangly1024.com/article/notionnext-heo)》
+    - 详情见《[HEO主题配置说明文档](/user-guide/themes/heo)》
   - feat/是否显示开始阅读 by [@Vixcity](https://github.com/Vixcity) in [#1360](https://github.com/tangly1024/NotionNext/pull/1360)
   - 保存用户深色模式 by [@tangly1024](https://github.com/tangly1024) in [#1362](https://github.com/tangly1024/NotionNext/pull/1362)
   - fix hexo overflow-x by [@tangly1024](https://github.com/tangly1024) in [#1370](https://github.com/tangly1024/NotionNext/pull/1370)
@@ -1491,8 +1491,8 @@ New Contributors
   - fix-plog-menubar by [@tangly1024](https://github.com/tangly1024) in [#1281](https://github.com/tangly1024/NotionNext/pull/1281)
 
 ## 4.0.0 (20230718)
-  1. 发布[HEO主题](https://docs.tangly1024.com/article/notionnext-heo)
-  1. 新增[ChatBase](https://docs.tangly1024.com/article/notion-next-chat-base)聊天机器人
+  1. 发布[HEO主题](/user-guide/themes/heo)
+  1. 新增[ChatBase](/user-guide/plugins/notion-next-chat-base)聊天机器人
 
 ## PRE.4.0.0(20230708)
 这是一个[预发布版本](https://github.com/tangly1024/NotionNext/tree/release/4.0.0)

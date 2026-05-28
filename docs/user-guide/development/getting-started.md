@@ -13,7 +13,7 @@
 
 ## 前言
 
-在进行二次开发之前，您需要了解到：NotionNext本身支持大量的自定义配置，开发之前，请先访问《[配置手册](https://docs.tangly1024.com/article/how-to-config-notion-next)》获取帮助、配置您的站点，例如：
+在进行二次开发之前，您需要了解到：NotionNext本身支持大量的自定义配置，开发之前，请先访问《[配置手册](/user-guide/config-site)》获取帮助、配置您的站点，例如：
 
 - `blog.config.js` 文件中可以修改站点的基础信息、主题、语言、评论插件等核心配置
 

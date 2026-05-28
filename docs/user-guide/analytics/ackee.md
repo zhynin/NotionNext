@@ -81,7 +81,7 @@ Start building the best web experiences in record time
 
 可以参考《Vercel绑定域名》这篇文章的 《CNAME解析》部分
 
-[Vercel绑定自定义域名 | NotionNext文档](https://docs.tangly1024.com/article/vercel-domain#c7b213564fdb40ffb43b51ae31c08963)
+[Vercel绑定自定义域名 | NotionNext文档](/user-guide/deploy/vercel-domain#c7b213564fdb40ffb43b51ae31c08963)
 
 Vercel 借助cloudFlare可以快速绑定解析自己的域名
 

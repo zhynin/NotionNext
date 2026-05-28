@@ -97,7 +97,7 @@ SaleSmartly的免费版上线是一千个会话，即超过一千位客户咨询
 
 ## 其它聊天插件选择
 
-你可以任意查找网上的其它插件进行安装，例如参考文档中的[TIDIO插件安装](https://docs.tangly1024.com/article/notion-next-tidio)或者使用[Chatway聊天插件](https://go.chatway.app/)，他们与SaleSmartly的安装方式基本一致。例如Chatway插件配置也是添加一个脚本地址即可，示例如下：
+你可以任意查找网上的其它插件进行安装，例如参考文档中的[TIDIO插件安装](/user-guide/plugins/notion-next-tidio)或者使用[Chatway聊天插件](https://go.chatway.app/)，他们与SaleSmartly的安装方式基本一致。例如Chatway插件配置也是添加一个脚本地址即可，示例如下：
 
 ![image.png](/legacy/5d79121e1e4e2e6d.png)
 

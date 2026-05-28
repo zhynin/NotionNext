@@ -150,7 +150,7 @@ CloudFlare具有Worker.js、全球免费CDN、SSL证书，网站DDoS防火墙等
 
 ### 关于根域名的配置
 
-以上举例使用的是二级域名，如果你想像我一样使用 [https://tangly1024.com](https://tangly1024.com) 这样的根域名，配置参考如下：
+以上举例使用的是二级域名，如果你想像我一样使用 [/user-guide/intro](/user-guide/intro) 这样的根域名，配置参考如下：
 
 
 #### Vercel后台

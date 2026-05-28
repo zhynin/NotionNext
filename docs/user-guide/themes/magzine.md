@@ -4,6 +4,11 @@
 > 最后编辑：2024-9-14
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Magazine 主题预览](/images/themes-preview/magzine.webp)
+
 > **💡**
 >
 新主题，需要升级到V4.7.1之后的版本才能使用
@@ -124,7 +129,7 @@ const CONFIG = {
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  MAGZINE_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/chat-community',
+  MAGZINE_SOCIAL_CARD_URL: '/user-guide/help/community',
 
   // 页脚菜单 结构是 [分组,分组,分组] ，分组对象内容是： {name:'标题',menus:[链接,链接]}
   MAGZINE_FOOTER_LINKS: [
@@ -149,7 +154,7 @@ const CONFIG = {
       menus: [
         {
           title: '站长社群',
-          href: 'https://docs.tangly1024.com/article/chat-community'
+          href: '/user-guide/help/community'
         }
       ]
     },
@@ -157,7 +162,7 @@ const CONFIG = {
       name: '解决方案',
       menus: [
         { title: '建站工具', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: 'NotionNext', href: '/user-guide/intro' }
       ]
     }
   ]
@@ -174,7 +179,7 @@ export default CONFIG
 
 分组对象内容是： { name:'标题',menus:[链接,链接,…]} ，name是组名，menus是这个分组下有几个链接。
 
-链接对象内容是： { title:’链接显示标题’, href: ’https://tangly1024.com’} ，链接可以配置标题和跳转位置。
+链接对象内容是： { title:’链接显示标题’, href: ’/user-guide/intro’} ，链接可以配置标题和跳转位置。
 
 ```JavaScript
 // 页脚菜单 结构是 [分组,分组,分组] ，分组对象内容是： {name:'标题',menus:[链接,链接]}
@@ -200,7 +205,7 @@ export default CONFIG
       menus: [
         {
           title: '站长社群',
-          href: 'https://docs.tangly1024.com/article/chat-community'
+          href: '/user-guide/help/community'
         }
       ]
     },
@@ -208,7 +213,7 @@ export default CONFIG
       name: '解决方案',
       menus: [
         { title: '建站工具', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: 'NotionNext', href: '/user-guide/intro' }
       ]
     }
   ]
@@ -251,7 +256,7 @@ export default CONFIG
             },
             {
                 "title": "开发帮助",
-                "href": "https://docs.tangly1024.com/article/how-to-develop-with-notion-next"
+                "href": "/user-guide/development/getting-started"
             },
             {
                 "title": "功能反馈",
@@ -272,19 +277,19 @@ export default CONFIG
         "menus": [
             {
                 "title": "站长社群",
-                "href": "https://docs.tangly1024.com/article/chat-community"
+                "href": "/user-guide/help/community"
             },
             {
                 "title": "咨询与定制",
-                "href": "https://docs.tangly1024.com/article/my-service"
+                "href": "/user-guide/help/support"
             },
             {
                 "title": "升级手册",
-                "href": "https://docs.tangly1024.com/article/my-service"
+                "href": "/user-guide/help/support"
             },
             {
                 "title": "安装教程",
-                "href": "https://docs.tangly1024.com/article/how-to-update-notionnext"
+                "href": "/user-guide/update"
             },
             {
                 "title": "SEO推广",
@@ -301,7 +306,7 @@ export default CONFIG
             },
             {
                 "title": "NotionNext",
-                "href": "https://docs.tangly1024.com/about"
+                "href": "/user-guide/intro"
             }
         ]
     }

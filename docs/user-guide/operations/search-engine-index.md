@@ -81,7 +81,7 @@ NotionNext搭建的网站自带一个站点地图 地址是您的 域名后加 /
 
 ## 提交网页url
 
-提交可以加速被收录，在顶部搜索框直接输入完整的网址页面并按下回车键，例如about页面 https://blog.tangly1024.com/about ，
+提交可以加速被收录，在顶部搜索框直接输入完整的网址页面并按下回车键，例如about页面 /user-guide/intro ，
 
 ![Untitled](/legacy/dc9fde47fa05b6e7.png)
 

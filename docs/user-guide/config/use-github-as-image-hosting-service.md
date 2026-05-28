@@ -21,7 +21,7 @@ Favicon.ico是网站的图标文件，通常用于显示在浏览器标签页上
 
 ## favicon与图床
 
-NotionNext中如果要修改favicon.ico 图片需要用户自行上传，覆盖原先public目录下的favicon.ico。设置favicon的方法参考此教程《[浏览器站点图标配置](https://docs.tangly1024.com/article/notion-next-guide#41d1a74a311943f38050835b693ffeec)》
+NotionNext中如果要修改favicon.ico 图片需要用户自行上传，覆盖原先public目录下的favicon.ico。设置favicon的方法参考此教程《[浏览器站点图标配置](/user-guide/config/site-basics#41d1a74a311943f38050835b693ffeec)》
 
 ![image.png](/legacy/e739a8e6c22f4a48.png)
 
@@ -93,7 +93,7 @@ Repository name可以随意填写，注意要选择为Public类型
 
 ## 最后
 
-以上我演示的是一个 gif 文件，实际上你要用来配置的favicon文件名后缀应当以 `.ico` 结尾，如何生成ico文件，可以参考这篇文章：《[浏览器站点图标配置](https://docs.tangly1024.com/article/notion-next-guide#41d1a74a311943f38050835b693ffeec)-如何制作您的icon》
+以上我演示的是一个 gif 文件，实际上你要用来配置的favicon文件名后缀应当以 `.ico` 结尾，如何生成ico文件，可以参考这篇文章：《[浏览器站点图标配置](/user-guide/config/site-basics#41d1a74a311943f38050835b693ffeec)-如何制作您的icon》
 
 ## 原文链接
 

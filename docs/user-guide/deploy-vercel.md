@@ -8,11 +8,11 @@
 
 ## 前言
 
-遵循此教程您将在[Vercel](https://tangly1024.com/article/vercel)上免费搭建一个[NotionNext](https://docs.tangly1024.com/about)博客。
+遵循此教程您将在[Vercel](https://tangly1024.com/article/vercel)上免费搭建一个[NotionNext](/user-guide/intro)博客。
 
 > **❓**
 >
-[NotionNext](https://docs.tangly1024.com/about)是一个完全开源免费的建站脚本，将您的[Notion](https://blog.tangly1024.com/article/notion)笔记实时渲染成博客。
+[NotionNext](/user-guide/intro)是一个完全开源免费的建站脚本，将您的[Notion](https://blog.tangly1024.com/article/notion)笔记实时渲染成博客。
 >
 > Vercel是一个来自国外的在线脚本托管平台，对于个人使用，其免费版已经完全足够，因此您无需购买服务器即可搭建自己的网站。
 
@@ -33,7 +33,7 @@
 
 1. 在Vercel中一键部署
 
-部署文档已经过大量网友实践验证，如您实在无法完成独立部署，可以考虑[向我们求助](https://docs.tangly1024.com/article/my-service)。
+部署文档已经过大量网友实践验证，如您实在无法完成独立部署，可以考虑[向我们求助](/user-guide/help/support)。
 
 
 ### 视频帮助
@@ -188,7 +188,7 @@ NotionNext会实时抓取Notion笔记内容
 
 接下来，请访问下方的《**NotionNext 操作手册**》获取更多站点配置的帮助！
 
-[NotionNext-快速免费搭建网站 | NotionNext文档](https://docs.tangly1024.com/about)
+[NotionNext-快速免费搭建网站 | NotionNext文档](/user-guide/intro)
 
 无需服务器、即使是小白也能几分钟搭建自己的独立博客站～如果你在使用Notion这款神级笔记本的话，不妨来试试顺手建个网站🤣🤣🤣，这是一款基于NotionAPI的博客系统。
 

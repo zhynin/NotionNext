@@ -10,7 +10,7 @@
 
 > **💡** 本文将介绍如何配置一些基本的站点信息；例如作者名以及网站URL等。
 
-> **💡** 阅读本文前，请先确保已经部署好您的NotionNext站点，若您还没有自己的站点，请访问教程部署自己的站点: [https://docs.tangly1024.com/about](https://docs.tangly1024.com/about)
+> **💡** 阅读本文前，请先确保已经部署好您的NotionNext站点，若您还没有自己的站点，请访问教程部署自己的站点: [/user-guide/intro](/user-guide/intro)
 
 
 ## 配置说明
@@ -23,12 +23,12 @@
 ```JavaScript
 AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'NotionNext', // 您的昵称 例如 tangly1024
 BIO: process.env.NEXT_PUBLIC_BIO || '一个普通的干饭人🍚', // 作者简介
-LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 网站地址
+LINK: process.env.NEXT_PUBLIC_LINK || '/user-guide/intro', // 网站地址
 KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客', // 网站关键词 英文逗号隔开
 SINCE: process.env.NEXT_SINCE || 2021, // 建站年份
 ```
 
-> **💡** 关于如何修改配置，请访问上一篇《[配置入门](https://docs.tangly1024.com/article/how-to-config-notion-next)》教程了解其他修改配置的方法。
+> **💡** 关于如何修改配置，请访问上一篇《[配置入门](/user-guide/config-site)》教程了解其他修改配置的方法。
 
 在配置文件中，添加了社交链接的地址后，将在Hexo、Next主题下显示一排联系方式按钮。
 
@@ -55,7 +55,7 @@ CONTACT_YOUTUBE: process.env.NEXT_PUBLIC_CONTACT_YOUTUBE || '', // Youtube主页
 文章底部的分享条，需要配置您的站点地址，否则分享的路径都是默认地址，除此之外，LINK这个配置还用于feed订阅、sitemap站点地图生成的功能。
 
 ```JavaScript
-LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 网站地址
+LINK: process.env.NEXT_PUBLIC_LINK || '/user-guide/intro', // 网站地址
 ```
 
 ![Untitled](/legacy/476ef048a1f71931.png)
@@ -164,7 +164,7 @@ CUSTOM_EXTERNAL_CSS: [''], // e.g. ['http://xx.com/style.css','http://xx.com/sty
   - [/public/js/custom.js](https://github.com/tangly1024/NotionNext/blob/main/public/js/custom.js) 文件中编写脚本将被自动引入页面。
   - 每个主题的自定义css文件，例如 /public/css/theme-hexo.css
 
-> **❓** 若引入js和css不能满足您的需求？试试参考《[NotionNext二次开发手册](https://tangly1024.com/article/how-to-develop-with-notion-next)》进行自定义开发。
+> **❓** 若引入js和css不能满足您的需求？试试参考《[NotionNext二次开发手册](/user-guide/development/getting-started)》进行自定义开发。
 
 
 ### 5. 文章路径
@@ -226,7 +226,7 @@ NOTION_PROPERTY_NAME: {
 
 请访问以下链接获取配置帮助：
 
-[NotionNext二级菜单使用说明 | TANGLY’s BLOG](https://tangly1024.com/article/notion-next-secondary-menu)
+[NotionNext二级菜单使用说明 | TANGLY’s BLOG](/user-guide/menu-secondary)
 
 NotionNext 3.13.0上线，支持更灵活的菜单配置
 

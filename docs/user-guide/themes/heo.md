@@ -4,6 +4,11 @@
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Heo 主题预览](/images/themes-preview/heo.webp)
+
 > **💡** 感谢张洪大佬的设计 [https://blog.zhheo.com/](https://blog.zhheo.com/)
 
 
@@ -33,7 +38,7 @@
 // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '访问文档中心获取更多帮助', url: '/user-guide/intro' }
   ],
 ```
 

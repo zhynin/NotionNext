@@ -210,7 +210,7 @@
 
 ### 3.13.0（2023.3.24）
   - 所有主题适配二级下拉菜单，访问以下文章获取配置帮助：
-[NotionNext二级菜单使用说明 | TANGLY’s BLOG](https://tangly1024.com/article/notion-next-secondary-menu)
+[NotionNext二级菜单使用说明 | TANGLY’s BLOG](/user-guide/menu-secondary)
 
 NotionNext 3.13.0上线，支持更灵活的菜单配置
   - Database可以直接打开

@@ -18,7 +18,7 @@ NotionNext 已由个人仓库移交至组织 **[notionnext-org](https://github.c
 
 - **在线文档**：[notionnext.tangly1024.com](https://notionnext.tangly1024.com)  
 - **快速开始**：[介绍](./intro.md) → [Vercel 部署](./deploy-vercel.md)  
-- **旧版 Notion 教程**：[docs.tangly1024.com](https://docs.tangly1024.com)（历史截图）
+- **旧版 Notion 教程**：[docs.tangly1024.com](/user-guide/intro)（历史截图）
 
 ### 2. 提问与讨论
 

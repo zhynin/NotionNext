@@ -21,7 +21,7 @@
 
 ![Untitled](/legacy/36bccb6c804624bc.png)
 
-> [https://docs.tangly1024.com](https://docs.tangly1024.com/article/notion-next-url-customize)[/](https://docs.tangly1024.com/article/notion-next-url-customize)[`article`](https://docs.tangly1024.com/article/notion-next-url-customize)[/](https://docs.tangly1024.com/article/notion-next-url-customize)[notion-next-url-customize](https://docs.tangly1024.com/article/notion-next-url-customize)
+> [/user-guide/intro](/user-guide/config/url-customize)[/](/user-guide/config/url-customize)[`article`](/user-guide/config/url-customize)[/](/user-guide/config/url-customize)[notion-next-url-customize](/user-guide/config/url-customize)
 
 在以上链接中：URL 主要可以拆分为3个部分构成，绿色部分是你的站点域名， 红色部分是url前缀，蓝色部分则是取自数据库中的slug部分。
 

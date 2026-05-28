@@ -30,7 +30,7 @@ CloudFlare版本是静态导出的，**不支持实时更新文章**，每次更
 CloudFlare部署方案，以及其他所有使用 静态导出的方案，默认都不支持NotionNext自带的搜索功能，必须集成Algolia插件才能实现全文搜索。
 >
 > 详情参考Algolia全文搜索插件获取帮助:
-> [Algolia搜索引擎 | NotionNext帮助手册](https://docs.tangly1024.com/article/notion-next-algolia)
+> [Algolia搜索引擎 | NotionNext帮助手册](/user-guide/config/algolia)
 >
 > NotionNext如何配置Algolia
 

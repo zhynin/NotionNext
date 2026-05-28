@@ -4,6 +4,11 @@
 > 最后编辑：2025-4-13
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Proxio 主题预览](/images/themes-preview/proxio.webp)
+
 在4.8.4之后的版本中引入，目前还在Alpha1.0体验测试阶段。后续版本中将持续迭代修复BUG。
 
 ![image.png](/legacy/3d64a9f07481fef5.png)

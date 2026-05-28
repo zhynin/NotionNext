@@ -4,6 +4,11 @@
 > 最后编辑：2025-7-7
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Simple 主题预览](/images/themes-preview/simple.webp)
+
 NotionNext 4.0 系列，用户首次安装的默认主题是Simple。这也是目前我主要在用的简洁主题。
 
 

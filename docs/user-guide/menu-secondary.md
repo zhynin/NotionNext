@@ -26,7 +26,7 @@
 
 首先，请**更新您的NotionNext至3.13.0以上版本**；访问升级指南或在交流群寻求帮助。
 
-[NotionNext升级指南 | TANGLY’s BLOG](https://tangly1024.com/article/how-to-update-notionnext)
+[NotionNext升级指南 | TANGLY’s BLOG](/user-guide/update)
 
 当NotionNext发布新版后，如何更新你的项目？
 

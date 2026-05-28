@@ -85,8 +85,8 @@ HEO_HOME_BANNER_ENABLE: true,
 HEO_SITE_CREATE_TIME: '2024-05-09',
 HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
 HEO_NOTICE_BAR: [
-  { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-  { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+  { title: '欢迎来到我的博客', url: '/user-guide/intro' },
+  { title: '访问文档中心获取更多帮助', url: '/user-guide/intro' }
 ],
 ```
 
@@ -144,7 +144,7 @@ A new tool that blends your everyday work apps into one. It's the all-in-one wor
 > <details>
 > <summary>附-如何获取部署日志</summary>
 >
-> 截图您的部署日志，向[群友](https://docs.tangly1024.com/article/about-author)寻求帮助
+> 截图您的部署日志，向[群友](/user-guide/help/feedback)寻求帮助
 >       1. 在Vercel的后台看到您的每次部署记录(点击展开)
 > ![Untitled](/legacy/8b4050dd2f9d0b67.png)
 >       1. 请截图部署的错误日志，错误信息越完整越好；
@@ -171,7 +171,7 @@ AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'momo', // 修改后 作者 momo
 
 - 修改前
 ```JavaScript
-LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 修改前网址
+LINK: process.env.NEXT_PUBLIC_LINK || '/user-guide/intro', // 修改前网址
 ```
 
 - 修改后
@@ -202,13 +202,13 @@ LINK: process.env.NEXT_PUBLIC_LINK || 'https://qq.com', // 修改后
 
 - 文件夹名为 **magzine**（与英文 magazine 拼写不同，请勿写错）。
 
-- 各主题个性化选项与预览方式见文档 [《⭐️主题配置》](https://docs.tangly1024.com/article/notion-next-themes)；若你本地或 fork 的 `themes/` 与官方不一致，以实际目录为准。
+- 各主题个性化选项与预览方式见文档 [《⭐️主题配置》](/user-guide/themes/overview)；若你本地或 fork 的 `themes/` 与官方不一致，以实际目录为准。
 
 - 在`blog.config.js` 文件中可以看到类似 `process.env.NEXT_PUBLIC_THEME` 的格式，这意味着此类参数支持在Vercel中使用环境变量来配置。默认主题为 `simple`；若需在页面上显示主题切换菜单，可在仓库 `conf/widget.config.js` 中配置 `THEME_SWITCH`（可选用环境变量 `NEXT_PUBLIC_THEME_SWITCH`）。
 ```JavaScript
 NOTION_PAGE_ID: process.env.NOTION_PAGE_ID || '02ab3b8678004aa69e9e415905ef32a5',
 THEME: process.env.NEXT_PUBLIC_THEME || 'simple', // 默认主题（与仓库 blog.config.js 一致）
-LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 站点域名
+LINK: process.env.NEXT_PUBLIC_LINK || '/user-guide/intro', // 站点域名
 ```
 
 - 网站优先读取环境变量配置、其次是文件中的配置。
@@ -269,7 +269,7 @@ NEXT_PUBLIC_LINK=http://xxx.com
 
 > hi，我是一个程序员
 
-这该如何更改？需要访问这个主题的说明文档，请参阅此文档教程的 [《⭐️主题配置》](https://docs.tangly1024.com/article/notion-next-themes)部分
+这该如何更改？需要访问这个主题的说明文档，请参阅此文档教程的 [《⭐️主题配置》](/user-guide/themes/overview)部分
 
 ## 原文链接
 

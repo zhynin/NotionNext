@@ -11,7 +11,7 @@
 
 ## 前言
 
-NotionNext在[4.2版本](https://docs.tangly1024.com/article/v4.2.4)后支持直接在Notion中编辑CSS和JS脚本，从而实时修改网页样式，这种方式调整样式对源代码无是无侵入的。换言之，您无需打开Github代码，只要在Notion笔记中编写几个指令即可调整网页上的效果。
+NotionNext在[4.2版本](/user-guide/changelog/v4-history)后支持直接在Notion中编辑CSS和JS脚本，从而实时修改网页样式，这种方式调整样式对源代码无是无侵入的。换言之，您无需打开Github代码，只要在Notion笔记中编写几个指令即可调整网页上的效果。
 
 
 ### 效果
@@ -52,7 +52,7 @@ NotionNext在[4.2版本](https://docs.tangly1024.com/article/v4.2.4)后支持直
 ### 一、获取要修改元素的Selector（选择器）
 
 1. 用浏览器打开您已经部署好的网站
-例如我打开了自己的网站 [https://blog.tangly1024.com/](https://blog.tangly1024.com/)
+例如我打开了自己的网站 [/user-guide/intro](/user-guide/intro)
 
 1. 按下键盘上的`F12`打开控制台
 ![Untitled](/legacy/0ef850da506cd80f.png)

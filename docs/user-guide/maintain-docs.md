@@ -41,7 +41,7 @@ push main（docs/user-guide/ 等变更）
 
 ## 与旧版在线手册
 
-[docs.tangly1024.com](https://docs.tangly1024.com) 为历史 Notion 托管；**以 `docs/user-guide/` 与 notionnext.tangly1024.com 为准**。
+[docs.tangly1024.com](/user-guide/intro) 为历史 Notion 托管；**以 `docs/user-guide/` 与 notionnext.tangly1024.com 为准**。
 
 - slug 对照与旧站直达：[help/legacy-docs.md](./help/legacy-docs.md) · [ARTICLE_INDEX.md](./ARTICLE_INDEX.md)
 - 可选批量拉取旧文：`node scripts/migrate-legacy-docs.mjs --slug <slug>`（加 `--images` 下载图片到 `docs/public/legacy/`）

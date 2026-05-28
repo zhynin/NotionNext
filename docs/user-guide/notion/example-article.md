@@ -30,7 +30,7 @@
 主人何为言少钱，径须沽取对君酌。
 五花马、千金裘，呼儿将出换美酒，与尔同销万古愁。
 
-[TANGLY's BLOG | 记录思考、分享我的学习笔记](https://tangly1024.com/)
+[TANGLY's BLOG | 记录思考、分享我的学习笔记](/user-guide/intro)
 
 记录思考、分享我的学习笔记
 
@@ -90,7 +90,7 @@ import json
 data = {
     'no' : 1,
     'name' : 'hello',
-    'url' : 'http://tangly1024.com'
+    'url' : '/user-guide/intro'
 }
 
 json_str = json.dumps(data)
@@ -252,7 +252,7 @@ tailwindcss.pdf
 
 ### 7. 内嵌网页
 
-https://www.tangly1024.com/
+/user-guide/intro
 
 
 ### 5.代办
@@ -348,15 +348,15 @@ Notion页面中，每篇文章都将有以下属性🤔：
 
 按照以下教程可以开启相应的评论插件
 
-[评论插件说明 | NotionNext帮助手册](https://docs.tangly1024.com/article/notion-next-comment-plugin)
+[评论插件说明 | NotionNext帮助手册](/user-guide/comments/overview)
 
 NotionNext-快速免费建站
 
-[Twikoo | NotionNext帮助手册](https://docs.tangly1024.com/article/notionnext-twikoo)
+[Twikoo | NotionNext帮助手册](/user-guide/comments/twikoo)
 
 NotionNext现在支持 Twikoo啦，很好用的评论 插件
 
-[Waline | NotionNext帮助手册](https://docs.tangly1024.com/article/notion-next-waline)
+[Waline | NotionNext帮助手册](/user-guide/comments/waline)
 
 NotionNext-快速免费建站
 

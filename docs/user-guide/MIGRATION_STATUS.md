@@ -41,7 +41,7 @@
 | --- | --- |
 | `v4.0` 超长 changelog | [changelog/v4-history.md](./changelog/v4-history.md) 索引 + GitHub Releases |
 | `latest` | [changelog/latest.md](./changelog/latest.md) |
-| `example-1` | [notion/example-article.md](./notion/example-article.md) + [旧站原文](https://docs.tangly1024.com/article/example-1) |
+| `example-1` | [notion/example-article.md](./notion/example-article.md) + [旧站原文](/user-guide/notion/example-article) |
 | `notion-tutorial` | 付费课程外链 |
 | `vercel-accelerate`、`vercel-redploy` | [deploy/vercel-accelerate.md](./deploy/vercel-accelerate.md)、[deploy/vercel-redeploy.md](./deploy/vercel-redeploy.md) |
 

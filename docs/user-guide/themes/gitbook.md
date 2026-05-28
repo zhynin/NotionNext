@@ -4,6 +4,11 @@
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![GitBook 主题预览](/images/themes-preview/gitbook.webp)
+
 ## Gitbook主题说明
 
 > **💡** V4.4.4 2024-04-25更新

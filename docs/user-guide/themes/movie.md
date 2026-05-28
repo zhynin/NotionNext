@@ -4,6 +4,11 @@
 > 最后编辑：2024-9-12
 > 原栏目：⭐ 主题参数
 
+
+## 主题预览
+
+![Movie 主题预览](/images/themes-preview/movie.webp)
+
 可以搭建影视网站的主题。在线预览：[https://movie.tangly1024.com/](https://movie.tangly1024.com/) 。
 
 对应示例数据库：

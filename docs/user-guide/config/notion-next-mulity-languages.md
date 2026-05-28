@@ -106,7 +106,7 @@ NOTION_PAGE_ID = 'xxJPxx,en:xxENxx,zh:xxZHxx,es:xxESxx'
 
 例如
 
-结合[Notion_CONFIG](https://docs.tangly1024.com/article/how-to-config-notion-next#3edb6a42a64247b689ef89cceadb83dd)的功能，你可以为每个版块配置不同的主题。
+结合[Notion_CONFIG](/user-guide/config-site#3edb6a42a64247b689ef89cceadb83dd)的功能，你可以为每个版块配置不同的主题。
 
 
 ### 4. 切换语言

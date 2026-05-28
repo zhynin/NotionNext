@@ -4,6 +4,7 @@
 > 最后编辑：2026-4-30
 > 原栏目：⭐ 主题参数
 
+
 > **💡**
 >
 新主题，需要升级到V4.8.6 之后的版本才能使用
@@ -17,6 +18,8 @@
 
 
 ## 主题预览
+
+![Typography 主题预览](/images/themes-preview/typography.webp)
 
 点此预览： [https://preview.tangly1024.com/en?theme=typography](https://preview.tangly1024.com/en?theme=typography)
 

@@ -14,7 +14,7 @@
 
 关于项目的开发，请阅读以下文档：
 
-[二次开发手册 | NotionNext文档](https://docs.tangly1024.com/article/how-to-develop-with-notion-next)
+[二次开发手册 | NotionNext文档](/user-guide/development/getting-started)
 
 小白入门如何开发notionnext，下载NotionNext、启动NotionNext、提交合并到NotionNext等。
 

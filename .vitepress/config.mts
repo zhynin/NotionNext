@@ -32,7 +32,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/brand/notionnext-logo.png',
     nav: [
-      { text: '使用说明', link: '/user-guide/intro', activeMatch: '/user-guide/' },
+      { text: '开始搭建', link: '/user-guide/start-here', activeMatch: '/user-guide/' },
       { text: '主题', link: '/user-guide/themes/THEMES_CATALOG', activeMatch: '/user-guide/themes/' },
       { text: '参考手册', link: '/user-guide/reference/features', activeMatch: '/user-guide/reference/' },
       { text: '维护策略', link: '/DOCUMENTATION_POLICY' },
@@ -50,6 +50,7 @@ export default defineConfig({
         {
           text: '快速开始',
           items: [
+            { text: '从这里开始', link: '/user-guide/start-here' },
             { text: '介绍', link: '/user-guide/intro' },
             { text: 'Vercel 部署', link: '/user-guide/deploy-vercel' },
             { text: 'Notion 数据库', link: '/user-guide/notion-database' },
@@ -242,6 +243,7 @@ export default defineConfig({
           text: '文档',
           items: [
             { text: '首页', link: '/' },
+            { text: '从这里开始', link: '/user-guide/start-here' },
             { text: '使用说明', link: '/user-guide/intro' },
             { text: '参与社区', link: '/user-guide/community-participate' },
             { text: '文档维护策略', link: '/DOCUMENTATION_POLICY' },

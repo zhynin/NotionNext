@@ -3,46 +3,68 @@ layout: home
 
 hero:
   name: NotionNext
-  text: 使用说明
-  tagline: 部署、配置、主题与 Notion 写作 — 与仓库 main 分支同步
+  text: 用 Notion 搭建自己的独立站
+  tagline: 继续在 Notion 写作，一键发布为博客、作品集、知识库、导航站或产品官网。
   image:
     src: /brand/notionnext-logo.svg
     alt: NotionNext Logo
   actions:
     - theme: brand
-      text: 快速开始
-      link: /user-guide/intro
+      text: 开始搭建
+      link: /user-guide/start-here
     - theme: alt
-      text: 维护文档
-      link: https://github.com/notionnext-org/NotionNext/tree/main/docs
+      text: 查看主题
+      link: /user-guide/themes/THEMES_CATALOG
+    - theme: alt
+      text: 看部署流程
+      link: /user-guide/deploy-vercel
 
 features:
-  - title: 仓库内维护
-    details: 教程以 docs/user-guide 为准，push 后由 Cloudflare Pages 自动构建发布。
-  - title: 25 个主题
-    details: 每个内置主题均有独立说明与配置索引。
-  - title: 4.9.x 参考
-    details: 全站配置项与 Notion 4.x 能力见参考手册。
-  - title: 旧版 Notion 教程
-    details: 更早由 Notion 托管的图文教程（含历史截图）仍保留在 docs.tangly1024.com。
-    link: https://docs.tangly1024.com
-    linkText: 打开旧站
-  - title: 参与社区
-    details: 项目由 notionnext-org 社区维护；提问、改文档、提 PR、成为维护者。
-    link: /user-guide/community-participate
-    linkText: 查看指南
-  - title: 致谢贡献者
-    details: 感谢所有参与代码、主题、文档、Issue、Review 与发布维护的贡献者。
-    link: /user-guide/acknowledgements
-    linkText: 查看致谢
+  - title: 不换写作工具
+    details: 文章、分类、标签、菜单和页面仍在 Notion 中维护，网站自动读取并渲染。
+  - title: 快速拥有独立站
+    details: 复制模板、Fork 仓库、连接 Vercel，新手也能按步骤完成上线。
+  - title: 25 个内置主题
+    details: 覆盖博客、文档、作品集、官网、相册、导航站和视觉展示等场景。
+  - title: 面向长期运营
+    details: 支持独立域名、SEO、Sitemap、RSS、评论、统计、搜索、广告和邮件订阅。
+  - title: 开源可控
+    details: 源码、配置和主题都在你的仓库中，可按业务需要持续扩展。
+  - title: 可迁移的数据链路
+    details: Notion 负责沉淀内容，网站负责展示分发，后续可迁移到 Markdown 或其他静态站系统。
 ---
 
-::: tip 参与社区维护
-NotionNext 已移交组织仓库，欢迎站长与开发者共建。请参阅 **[参与社区](/user-guide/community-participate)** · [参与维护](/user-guide/maintain-docs) · [致谢](/user-guide/acknowledgements) · [GitHub Discussions](https://github.com/notionnext-org/NotionNext/discussions) · [贡献指南](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.zh-CN.md)。
-:::
+## 你可以用它做什么？
 
-::: info 还在找旧版教程？
-本站为仓库内 Markdown 文档。若你想查看**基于 Notion 创建的旧版教程**（`article/<slug>` 文章与完整截图排版），请访问 **[docs.tangly1024.com](https://docs.tangly1024.com)**。新旧文章路径对照见 [旧版手册入口](/user-guide/help/legacy-docs)。
-:::
+| 目标 | 推荐入口 | 适合人群 |
+| --- | --- | --- |
+| 搭个人博客 | [零基础开始](/user-guide/start-here) | 内容创作者、独立开发者、学生 |
+| 做作品集或个人品牌站 | [按场景选主题](/user-guide/themes/THEMES_CATALOG#按场景选主题) | 设计师、摄影师、自由职业者 |
+| 做产品官网 | [Starter / Landing / Proxio](/user-guide/themes/THEMES_CATALOG#按场景选主题) | 创业者、SaaS、独立产品 |
+| 做知识库或文档站 | [GitBook / Claude](/user-guide/themes/THEMES_CATALOG#按场景选主题) | 团队、开源项目、课程作者 |
+| 迁移旧站或长期维护 | [配置参考](/user-guide/reference/features) | 有技术基础的站长和开发者 |
 
-进入新版教程：[使用说明](/user-guide/intro)。
+## 新手路线
+
+1. [先看 5 分钟路线图](/user-guide/start-here)
+2. [复制 Notion 模板并部署到 Vercel](/user-guide/deploy-vercel)
+3. [了解 Notion 数据库结构](/user-guide/notion-database)
+4. [选择适合自己的主题](/user-guide/themes/THEMES_CATALOG)
+5. [配置域名、评论、统计和搜索](/user-guide/config-site)
+
+## 为什么值得做独立站？
+
+第三方平台适合分发，独立站适合沉淀。NotionNext 的定位不是再造一个复杂后台，而是把你已经在 Notion 中维护的内容，变成一个可搜索、可分享、可运营、可长期积累的站点。
+
+- 你保留自己的域名、源码和内容出口。
+- 文章可以持续积累搜索权重，而不是只停留在平台信息流里。
+- 博客、作品集、知识库、产品介绍、评论、订阅和在线客服可以放在同一个入口。
+- 站点后续可以继续换主题、换部署平台，甚至迁移到其他文档系统。
+
+## 已经会代码？
+
+开发者可以直接查看 [运行原理](/user-guide/development/architecture)、[主题开发](/user-guide/development/own-theme) 和 [全站配置索引](/user-guide/reference/features)。如果你想参与文档、主题或功能维护，请看 [参与社区](/user-guide/community-participate)。
+
+## 还在找旧版教程？
+
+旧版 Notion 教程仍保留在 [docs.tangly1024.com](https://docs.tangly1024.com)，用于对照历史截图和旧文章路径。新版文档以本站和仓库 `docs/user-guide/` 为准；新旧路径见 [旧版手册入口](/user-guide/help/legacy-docs)。
